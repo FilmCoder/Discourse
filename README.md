@@ -7,10 +7,11 @@ The first step to thoughtful debate is to understand that our minds ARE fallible
 Our application attempts to fundamentaly change the way people engage with each other.  We do so as follows:
 
 1. On their smartphones, two users (Sam and Nathan) select a topic.  Suppose they each select "environment".
-2. They are paired in a video chat room, and our given some basic tips on etiquette.
+2. They are paired in a video chat room.
 3. The users proceed through a GUIDED debate.  There is no arguing, only listening.  This facilitates undestanding and helps errode the impulse to block your friend out with your own voice.
 6. After the discussion, users enter something relevant they learned from their discussion partner, and the most notable reflections are archived in our issue database, chronicling a history of productive discussion.
 
+There is no sense of "party" in our application.  It's important to discuss the issues themselves, not "I'm a Democrat/Republic so I'm told what to think by my party."
 
 ## Broader Overview
 A selection of four curated issues are added each week. Users select an issue to discuss, and are matched with another user for a guided discussion of the issue, their perspective, and their respective solutions. After the discussion, each is asked to state one meaningful idea presented by the other, which are added to a list of reflections. Reflections may be liked by users, and the X most-liked reflections at the end of the week are archived.
