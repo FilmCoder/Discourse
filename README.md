@@ -13,7 +13,7 @@ Our application attempts to fundamentaly change the way people engage with each 
 
 There is no sense of "party" in our application.  It's important to discuss the issues themselves, not "I'm a Democrat/Republic so I'm told what to think by my party." We should think for ourselves.
 
-"However [political parties] may now and then answer popular ends, they are likely in the course of time and things, to become potent engines, by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government, destroying afterwards the very engines which have lifted them to unjust dominion." - George Washington's farewell address| Saturday, September 17, 1796
+"However [political parties] may now and then answer popular ends, they are likely in the course of time and things, to become potent engines, by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government, destroying afterwards the very engines which have lifted them to unjust dominion." - George Washington's farewell address | Saturday, September 17, 1796
 
 
 ## Broader Overview
